@@ -1,0 +1,11 @@
+
+if (newcode = true){
+  function foo{
+    bar = awesome
+  }
+} else {
+  function foo{
+    bar = old_and_crufty
+  }
+}
+foo()
